@@ -18,6 +18,8 @@
 #      - f: The function whose derivative is being analyzed.
 #      - x_interval: A tuple specifying the interval of x values containing the root.
 
+
+
   # Inside plot_newtons_method, do the following...
 
   # 4. Use the central_difference function to create a function called f_prime which takes in an x-value
@@ -50,6 +52,7 @@
 
 
   # 9. Plot the point (root_approx, f(root_approx)).
+
 
 
   ax.set_xlabel("x")
