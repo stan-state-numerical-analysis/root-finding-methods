@@ -13,6 +13,6 @@
 
 
 
-  # Copy and paste the code from plot_newtons_method from the task_2.py file and make the necessary
+  # 3. Copy and paste the code from plot_newtons_method from the task_2.py file and make the necessary
   # changes to find and plot an extreme value of f on the interval x_interval (and plots f itself).
   # Make the title of the plot: f"Approximation of an Extreme Value of f(x) in [{x_values[0]}, {x_values[1]}]"
