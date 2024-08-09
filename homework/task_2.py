@@ -8,7 +8,7 @@
 
 
 
-# 2. Import the newtons_method function from the task_1.py file.
+# 2. Import the matplotlib.pyplot, numpy, and the newtons_method function from the task_1.py file.
 
 
 
