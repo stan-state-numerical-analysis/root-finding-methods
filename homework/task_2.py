@@ -32,7 +32,7 @@
 
 
   # 5. Initialize a variable called root_approx which is the approximation of a root of f near x0
-  # returned by newtons_method.
+  # returned by newtons_method with a tolerance of 1e-5 and a maximum of 1000 iterations.
 
 
 
