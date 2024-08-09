@@ -12,7 +12,7 @@
 
 
 
-# 3. Define a new function called plot_newtons_method that applies Newton's method to find the root of the derivative
+# 3. Define a new function called plot_newtons_method that applies Newton's method to find the root
 #    of any function and plots the results.
 #    - Parameters:
 #      - f: The function whose derivative is being analyzed.
