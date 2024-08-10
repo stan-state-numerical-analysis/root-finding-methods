@@ -31,27 +31,27 @@
 
 
 
-  # 5. Initialize a variable called root_approx which is the approximation of a root of f near x0
+  # 6. Initialize a variable called root_approx which is the approximation of a root of f near x0
   # returned by newtons_method with a tolerance of 1e-5 and a maximum of 1000 iterations.
 
 
 
-  # 6. Initialize a variable called x_values containing 1000 equally spaced values spanning x_interval.
+  # 7. Initialize a variable called x_values containing 1000 equally spaced values spanning x_interval.
 
 
 
-  # 7. Initialize a variable called y_values which is a list of the evaluations of the input function f
+  # 8. Initialize a variable called y_values which is a list of the evaluations of the input function f
   # at each value in x_values.
 
 
     
   fig, ax = plt.subplots(figsize=(14, 8))
   
-  # 8. Use x_values and y_values to plot the function f over the given x-interval.
+  # 9. Use x_values and y_values to plot the function f over the given x-interval.
 
 
 
-  # 9. Use ax.scatter to plot the point (root_approx, f(root_approx)) in the color red with size 200. Set the label so it
+  # 10. Use ax.scatter to plot the point (root_approx, f(root_approx)) in the color red with size 200. Set the label so it
   # gives the x and y coordinates of the root estimate like so: (estimate, f(estimate))
 
 
