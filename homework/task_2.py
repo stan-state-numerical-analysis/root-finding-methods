@@ -51,7 +51,8 @@
 
 
 
-   # 9. Plot the point (root_approx, f(root_approx)) in the color red with marker style "o" and size 15.
+  # 9. Use ax.scatter to plot the point (root_approx, f(root_approx)) in the color red with size 200. Set the label so it
+  # gives the x and y coordinates of the root estimate like so: (estimate, f(estimate))
 
 
 
