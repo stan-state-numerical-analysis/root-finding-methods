@@ -17,16 +17,16 @@
 
 
 
-    # 5. For each step in the loop, compute the next approximation x_{n+1} using the Newton's method formula.
+    # 5. For each step in the loop, compute the next approximation x_n+1 using the Newton's method formula.
 
 
 
-    # 6. Check if the absolute difference between x_{n+1} and x_n is less than the specified tolerance.
-    #    If so, return x_{n+1}.
+    # 6. Check if the absolute difference between x_n+1 and x_n is less than the specified tolerance.
+    #    If so, return x_n+1.
 
 
 
-    # 7. If the tolerance condition is not met, update x_n to x_{n+1} for the next iteration.
+    # 7. If the tolerance condition is not met, update x_n to x_n+1 for the next iteration.
 
 
 
