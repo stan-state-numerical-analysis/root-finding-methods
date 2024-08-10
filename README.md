@@ -2,7 +2,7 @@
 
 In this repository, we will explore root finding methods in Python. Here is a brief overview of the repository structure:
 ```
-numerical-differentiation
+root-finding-methods
 ├── homework/
 │   ├── README.md
 │   ├── __init__.py
