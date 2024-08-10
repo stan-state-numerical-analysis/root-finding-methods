@@ -51,14 +51,13 @@
 
 
 
-  # 9. Plot the point (root_approx, f(root_approx)).
+   # 9. Plot the point (root_approx, f(root_approx)) in the color red with marker style "o" and size 15.
 
 
 
   ax.set_xlabel("x")
   ax.set_ylabel("f(x)")
   ax.set_title(f"Approximation of the Root of f(x) in [{x_interval[0]}, {x_interval[1]}]")
-  ax.legend()
   ax.grid(True)
 
   return fig
