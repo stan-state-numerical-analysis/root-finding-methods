@@ -57,7 +57,7 @@
 
   ax.set_xlabel("x")
   ax.set_ylabel("f(x)")
-  ax.set_title(f"Approximation of the Root of f(x) in [{x_values[0]}, {x_values[1]}]")
+  ax.set_title(f"Approximation of the Root of f(x) in [{x_interval[0]}, {x_interval[1]}]")
   ax.legend()
   ax.grid(True)
 
